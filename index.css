@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin: 2% 50%;
+    width: auto;
+}
+
+#make-button {
+    text-align: center;
+    font-size: 1.5vw;
+    color: green;
+    margin: 2% 50%;
+    width: auto;
+}
+
+input {
+    display: inline;
+}
+
+#container {
+    display: none;
+}
+
+#email-text {
+    display: inline;
+}
