@@ -1,2 +1,4 @@
 # Password-Validation-Project
- 
+
+12/27/2020
+Started this yesterday, finished all the main components to this account creation info project. This requires the user to input a valid email, a username that hasn't already been used (i.e., a username that is not an element within the nameTaken array), a password that fulfills the password requirements (between 6 and 12 characters, includes at least one letter and one special character), and has them re-type their password in order to avoid inputs with unintentional typos. Will probably work a little more on this tomorrow to tidy up some smaller things and potentially add a bit of UI. This project has been a very enjoyable opportunity to practice using regular expressions. I love regEx!
